@@ -45,4 +45,4 @@ https://github.com/mozilla/multi-account-containers
 ## Donations and Contacts
 PayPal: https://www.paypal.com/donate/?cmd=_donations&business=YYGU9JWJEE2AG
 
-My Website: https://greenlightsuccess.webflow.io
+Email: michaelsebero@disroot.org
